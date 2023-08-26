@@ -3,7 +3,7 @@ class Solution:
         result = 0
         maximum = -1001
 
-        pairs.sort(key=lambda x: (x[1], -x[0]))
+        pairs.sort(key=lambda x: x[1])
 
         for pair in pairs: 
             if pair[0] > maximum: 
