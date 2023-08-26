@@ -1,14 +1,10 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        sortedNums = sorted([(nums[i], i) for i in range(len(nums))])
+        hashTable = {}
         
-        i, j = 0, len(nums) - 1
-        
-        while True: 
-            currentSum = sortedNums[i][0] + sortedNums[j][0]
-            if currentSum == target: 
-                return [sortedNums[i][1], sortedNums[j][1]]
-            elif currentSum < target: 
-                i += 1
+        for i, num in enumerate(nums): 
+            diff = target - num
+            if diff in hashTable: 
+                return [hashTable[diff], i]
             else: 
-                j -= 1
+                hashTable[num] = i
