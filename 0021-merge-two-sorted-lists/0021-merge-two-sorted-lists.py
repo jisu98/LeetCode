@@ -17,11 +17,11 @@ class Solution:
                 break
             
             if list1.val < list2.val:
-                currentNode.next = ListNode(list1.val)
+                currentNode.next = list1
                 currentNode = currentNode.next
                 list1 = list1.next
             else:
-                currentNode.next = ListNode(list2.val)
+                currentNode.next = list2
                 currentNode = currentNode.next
                 list2 = list2.next
             
