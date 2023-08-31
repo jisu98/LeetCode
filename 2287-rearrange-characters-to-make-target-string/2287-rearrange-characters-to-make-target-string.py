@@ -1,3 +1,4 @@
 class Solution:
     def rearrangeCharacters(self, s: str, target: str) -> int:
-         return min(Counter(s)[c] // count for (c, count) in Counter(target).items())
+        counterS = Counter(s)
+        return min(counterS[c] // count for (c, count) in Counter(target).items())
