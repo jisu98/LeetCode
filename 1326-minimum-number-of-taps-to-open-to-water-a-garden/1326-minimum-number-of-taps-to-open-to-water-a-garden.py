@@ -1,14 +1,13 @@
 class Solution:
     def minTaps(self, n: int, ranges: List[int]) -> int:        
-        ranges = [(i - range if i - range >= 0 else 0, i + range) for (i, range) in enumerate(ranges) if range > 0]
-        ranges.sort(key = lambda x: x[0])
+        taps = [(max(0, i - range), i + range) for (i, range) in enumerate(ranges) if range > 0]
         
         left = 0
         candidate = 0
         cnt = 0
         
         # greedy
-        for tap in ranges:
+        for tap in sorted(taps):
             # if have gap with previously selected one
             if tap[0] > left: 
                 # cannot cover the range of [candidate, tap[0]]
@@ -19,16 +18,12 @@ class Solution:
                     cnt += 1
                     left = candidate
                     candidate = tap[1]
+                    
+            # update if it is better than current candidate
+            elif tap[1] > candidate:
+                candidate = tap[1]
 
-            # if can compare with previous candidate
-            else: 
-                # skip if it is not better than current candidate
-                if tap[1] <= candidate: 
-                    pass
-                # update candidate if it is better than current one
-                else: 
-                    candidate = tap[1]
-            
+            # covered all!
             if candidate >= n:
                 return cnt + 1
 
