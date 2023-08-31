@@ -5,7 +5,10 @@ class Solution:
         
         for word in words:
             counterWord = Counter(word)
-            if all([counterWord[char] <= counterChars[char] for char in counterWord]):
+            for char in counterWord:
+                if counterWord[char] > counterChars[char]:
+                    break
+            else:
                 result += len(word)
-        
+                    
         return result
