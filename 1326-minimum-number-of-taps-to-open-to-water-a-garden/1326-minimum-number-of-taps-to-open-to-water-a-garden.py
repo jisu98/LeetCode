@@ -1,24 +1,14 @@
 class Solution:
-    def minTaps(self, n: int, ranges: List[int]) -> int:
-        def calculateTapRange(i: int, range: int): 
-            left = i - range if i - range >= 0 else 0
-            right = i + range if i + range <= n else n
-            return (left, right)
-        
-        def eliminateZeroRange(range: int): 
-            return range > 0
-        
-        taps = [calculateTapRange(i, range) for (i, range) in enumerate(ranges) if range > 0]
-        taps.sort(key = lambda x: (x[0], -x[1]))
-        
-        print(taps)
+    def minTaps(self, n: int, ranges: List[int]) -> int:        
+        ranges = [(i - range if i - range >= 0 else 0, i + range) for (i, range) in enumerate(ranges) if range > 0]
+        ranges.sort(key = lambda x: x[0])
         
         left = 0
         candidate = 0
         cnt = 0
         
         # greedy
-        for tap in taps:
+        for tap in ranges:
             # if have gap with previously selected one
             if tap[0] > left: 
                 # cannot cover the range of [candidate, tap[0]]
@@ -39,7 +29,7 @@ class Solution:
                 else: 
                     candidate = tap[1]
             
-            if candidate == n:
+            if candidate >= n:
                 return cnt + 1
 
         return -1
