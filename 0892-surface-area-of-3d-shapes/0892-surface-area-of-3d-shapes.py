@@ -4,16 +4,14 @@ class Solution:
         
         for x in range(len(grid)):
             for y in range(len(grid[0])):
-                cube = grid[x][y]
-
-                if cube == 0:
+                if grid[x][y] == 0:
                     continue
-                else:
-                    result += cube * 4 + 2
+                
+                result += grid[x][y] * 4 + 2
                     
                 if x > 0:
-                    result -= 2 * min(grid[x - 1][y], cube)
+                    result -= 2 * min(grid[x - 1][y], grid[x][y])
                 if y > 0:
-                    result -= 2 * min(grid[x][y - 1], cube)
+                    result -= 2 * min(grid[x][y - 1], grid[x][y])
                 
         return result
