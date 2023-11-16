@@ -1,8 +1,9 @@
 class Solution:
     def findDifferentBinaryString(self, nums: List[str]) -> str:
-        integers = set([i for i in range(2 ** len(nums))])
+        nums = [int(num, 2) for num in nums]
         
-        for num in nums:
-            integers.remove(int(num, 2))
-            
-        return bin(integers.pop())[2:].zfill(len(nums))
+        for i in range(len(nums) + 1):
+            if i in nums:
+                pass
+            else:
+                return bin(i)[2:].zfill(len(nums))
