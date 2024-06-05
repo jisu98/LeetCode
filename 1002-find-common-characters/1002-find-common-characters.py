@@ -1,6 +1,5 @@
 from collections import Counter
 
-# c = list((Counter(a) & Counter(b)).elements())
 class Solution(object):
     def count(self, word):
         frequencies = [0] * 26
@@ -22,8 +21,4 @@ class Solution(object):
         return result
     
     def commonChars(self, words):
-        """
-        :type words: List[str]
-        :rtype: List[str]
-        """
         return self.convert(reduce(self.intersect, map(self.count, words)))
