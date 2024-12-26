@@ -1,9 +1,8 @@
 class Solution {
     fun findTargetSumWays(nums: IntArray, target: Int): Int {
-        val numbers = nums.sorted().toList()
         var results = mapOf<Int, Int>()
 
-        numbers.forEach { number ->
+        nums.forEach { number ->
             if (results.isEmpty()) {
                 results = if (number == 0) {
                     mapOf(0 to 2)
