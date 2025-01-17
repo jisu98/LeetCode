@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jisu98/LeetCode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/jisu98/LeetCode/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jisu98/LeetCode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/jisu98/LeetCode/tree/master/0070-climbing-stairs) |
 | [2507-number-of-common-factors](https://github.com/jisu98/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Enumeration
 |  |
@@ -83,4 +85,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jisu98/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jisu98/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
