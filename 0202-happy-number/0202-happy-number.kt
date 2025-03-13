@@ -15,13 +15,13 @@ class Solution {
 
     fun sumOfSquares(n: Int): Int {
         var n = n
-        val digits = mutableListOf<Int>()
+        var result = 0
 
         while(n > 0) {
-            digits += n % 10
+            result += (n % 10) * (n % 10)
             n = n / 10
         }
 
-        return digits.sumOf { it * it }
+        return result
     }
 }
