@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jisu98/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/jisu98/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/jisu98/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/jisu98/LeetCode/tree/master/0202-happy-number) |
 | [2507-number-of-common-factors](https://github.com/jisu98/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -130,4 +131,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/jisu98/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/jisu98/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
