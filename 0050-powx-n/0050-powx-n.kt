@@ -1,22 +1,13 @@
 class Solution {
     fun myPow(x: Double, n: Int): Double {
-        var x = x
-        var n = n.toLong()
-        var result = 1.0
+        return myPow(x, n.toLong())
+    }
 
-        if (n < 0) {
-            x = 1 / x
-            n = -n
-        }
-
-        while (n > 0) {
-            if (n % 2 == 1L) result *= x
-            x *= x
-            n /= 2
-
-            println(result)
-        }
-
-        return result
+    fun myPow(x: Double, n: Long): Double {
+        return if (n == 0L) 1.0
+        else if (n < 0L) 1 / myPow(x, -n)
+        else if (n == 1L) x
+        else if (n % 2 == 0L) myPow(x * x, n / 2)
+        else x * myPow(x * x, (n - 1) / 2)
     }
 }
