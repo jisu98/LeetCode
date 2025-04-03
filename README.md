@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jisu98/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jisu98/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/jisu98/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/jisu98/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 ## Sorting
 |  |
 | ------- |
