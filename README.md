@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/jisu98/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jisu98/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jisu98/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jisu98/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Counting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/jisu98/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/jisu98/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/jisu98/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jisu98/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
