@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/jisu98/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jisu98/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jisu98/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3548-find-the-count-of-good-integers](https://github.com/jisu98/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jisu98/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Counting
 |  |
@@ -99,11 +100,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/jisu98/LeetCode/tree/master/0202-happy-number) |
 | [2507-number-of-common-factors](https://github.com/jisu98/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/jisu98/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/jisu98/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/jisu98/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/jisu98/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/jisu98/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -144,4 +147,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jisu98/LeetCode/tree/master/0050-powx-n) |
+## Combinatorics
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/jisu98/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
