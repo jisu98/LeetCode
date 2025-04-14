@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jisu98/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jisu98/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jisu98/LeetCode/tree/master/0022-generate-parentheses) |
+| [0768-partition-labels](https://github.com/jisu98/LeetCode/tree/master/0768-partition-labels) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jisu98/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jisu98/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jisu98/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/jisu98/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/jisu98/LeetCode/tree/master/0217-contains-duplicate) |
+| [0768-partition-labels](https://github.com/jisu98/LeetCode/tree/master/0768-partition-labels) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jisu98/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jisu98/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jisu98/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -84,10 +86,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/jisu98/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/jisu98/LeetCode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/jisu98/LeetCode/tree/master/0202-happy-number) |
+| [0768-partition-labels](https://github.com/jisu98/LeetCode/tree/master/0768-partition-labels) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jisu98/LeetCode/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/jisu98/LeetCode/tree/master/0768-partition-labels) |
 | [2509-minimize-xor](https://github.com/jisu98/LeetCode/tree/master/2509-minimize-xor) |
 ## Bit Manipulation
 |  |
