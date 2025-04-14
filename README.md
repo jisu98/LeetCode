@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/jisu98/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/jisu98/LeetCode/tree/master/0217-contains-duplicate) |
 | [1396-count-servers-that-communicate](https://github.com/jisu98/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1656-count-good-triplets](https://github.com/jisu98/LeetCode/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jisu98/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1876-map-of-highest-peak](https://github.com/jisu98/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/jisu98/LeetCode/tree/master/2145-grid-game) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/jisu98/LeetCode/tree/master/1656-count-good-triplets) |
 | [2507-number-of-common-factors](https://github.com/jisu98/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/jisu98/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/jisu98/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
