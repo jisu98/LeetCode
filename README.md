@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/jisu98/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jisu98/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jisu98/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/jisu98/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jisu98/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jisu98/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jisu98/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/jisu98/LeetCode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/jisu98/LeetCode/tree/master/0202-happy-number) |
 | [0768-partition-labels](https://github.com/jisu98/LeetCode/tree/master/0768-partition-labels) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/jisu98/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jisu98/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jisu98/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
