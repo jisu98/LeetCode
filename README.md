@@ -153,11 +153,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/jisu98/LeetCode/tree/master/0112-path-sum) |
 | [1396-count-servers-that-communicate](https://github.com/jisu98/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/jisu98/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/jisu98/LeetCode/tree/master/0112-path-sum) |
 | [1396-count-servers-that-communicate](https://github.com/jisu98/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 |  |
@@ -176,4 +178,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jisu98/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jisu98/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/jisu98/LeetCode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/jisu98/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
