@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/jisu98/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/jisu98/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jisu98/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/jisu98/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2262-solving-questions-with-brainpower](https://github.com/jisu98/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Backtracking
 |  |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/jisu98/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/jisu98/LeetCode/tree/master/0217-contains-duplicate) |
 | [1396-count-servers-that-communicate](https://github.com/jisu98/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/jisu98/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/jisu98/LeetCode/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jisu98/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1876-map-of-highest-peak](https://github.com/jisu98/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/jisu98/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/jisu98/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/jisu98/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/jisu98/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jisu98/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
