@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/jisu98/LeetCode/tree/master/0217-contains-duplicate) |
 | [0498-diagonal-traverse](https://github.com/jisu98/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/jisu98/LeetCode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/jisu98/LeetCode/tree/master/0605-can-place-flowers) |
 | [1396-count-servers-that-communicate](https://github.com/jisu98/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jisu98/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/jisu98/LeetCode/tree/master/1656-count-good-triplets) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/jisu98/LeetCode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/jisu98/LeetCode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/jisu98/LeetCode/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/jisu98/LeetCode/tree/master/0768-partition-labels) |
 | [2509-minimize-xor](https://github.com/jisu98/LeetCode/tree/master/2509-minimize-xor) |
 ## Bit Manipulation
