@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0732-my-calendar-iii](https://github.com/jisu98/LeetCode/tree/master/0732-my-calendar-iii) |
 | [2145-grid-game](https://github.com/jisu98/LeetCode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/jisu98/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2529-range-product-queries-of-powers](https://github.com/jisu98/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0732-my-calendar-iii](https://github.com/jisu98/LeetCode/tree/master/0732-my-calendar-iii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jisu98/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jisu98/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Tree
@@ -226,4 +228,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/jisu98/LeetCode/tree/master/0561-array-partition) |
+## Design
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/jisu98/LeetCode/tree/master/0732-my-calendar-iii) |
+## Segment Tree
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/jisu98/LeetCode/tree/master/0732-my-calendar-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/jisu98/LeetCode/tree/master/0732-my-calendar-iii) |
 <!---LeetCode Topics End-->
