@@ -4,14 +4,8 @@ class Solution {
         val nextGreaterMap = hashMapOf<Int, Int>()
 
         for (n in nums2) {
-            while (monotonicStack.isNotEmpty()) {
-                val last = monotonicStack.last()
-
-                if (last < n) {
-                    nextGreaterMap[monotonicStack.removeLast()] = n
-                } else {
-                    break
-                }
+            while (monotonicStack.isNotEmpty() && monotonicStack.last() < n) {
+                nextGreaterMap[monotonicStack.removeLast()] = n
             }
 
             monotonicStack += n
