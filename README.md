@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jisu98/LeetCode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/jisu98/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jisu98/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/jisu98/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/jisu98/LeetCode/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/jisu98/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/jisu98/LeetCode/tree/master/0768-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/jisu98/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jisu98/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/jisu98/LeetCode/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/jisu98/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jisu98/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0496-next-greater-element-i](https://github.com/jisu98/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/jisu98/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/jisu98/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/jisu98/LeetCode/tree/master/0605-can-place-flowers) |
@@ -260,4 +263,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/jisu98/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/jisu98/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/jisu98/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
