@@ -1,17 +1,24 @@
 class Solution {
     fun nextGreaterElement(nums1: IntArray, nums2: IntArray): IntArray {
-        for (i in nums1.indices) {
-            val idx = nums2.indexOf(nums1[i])
-            var nextGreaterElement = -1
+        val monotonicStack = mutableListOf<Int>()
+        val nextGreaterMap = hashMapOf<Int, Int>()
 
-            for (j in idx + 1 until nums2.size) {
-                if (nums2[j] > nums1[i]) {
-                    nextGreaterElement = nums2[j]
+        for (n in nums2) {
+            while (monotonicStack.isNotEmpty()) {
+                val last = monotonicStack.last()
+
+                if (last < n) {
+                    nextGreaterMap[monotonicStack.removeLast()] = n
+                } else {
                     break
                 }
             }
 
-            nums1[i] = nextGreaterElement
+            monotonicStack += n
+        }
+
+        for (i in nums1.indices) {
+            nums1[i] = nextGreaterMap.getOrDefault(nums1[i], -1)
         }
 
         return nums1
