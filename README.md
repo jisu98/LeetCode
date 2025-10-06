@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jisu98/LeetCode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/jisu98/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Combinatorics
 |  |
 | ------- |
@@ -294,4 +295,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/jisu98/LeetCode/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/jisu98/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
