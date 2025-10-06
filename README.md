@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/jisu98/LeetCode/tree/master/0191-number-of-1-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jisu98/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/jisu98/LeetCode/tree/master/2509-minimize-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/jisu98/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -289,4 +290,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/jisu98/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/jisu98/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
