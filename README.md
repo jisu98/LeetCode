@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jisu98/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2164-two-best-non-overlapping-events](https://github.com/jisu98/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/jisu98/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jisu98/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/jisu98/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jisu98/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jisu98/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jisu98/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jisu98/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/jisu98/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jisu98/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/jisu98/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jisu98/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jisu98/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jisu98/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jisu98/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Array
 |  |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jisu98/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/jisu98/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/jisu98/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jisu98/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jisu98/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jisu98/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
@@ -116,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/jisu98/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jisu98/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jisu98/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jisu98/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String Matching
 |  |
 | ------- |
@@ -132,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/jisu98/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jisu98/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jisu98/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jisu98/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
 | ------- |
@@ -244,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/jisu98/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jisu98/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jisu98/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jisu98/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Tree
 |  |
 | ------- |
