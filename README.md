@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/jisu98/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jisu98/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jisu98/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/jisu98/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jisu98/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2507-number-of-common-factors](https://github.com/jisu98/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/jisu98/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/jisu98/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/jisu98/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3548-find-the-count-of-good-integers](https://github.com/jisu98/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
 |  |
@@ -326,4 +328,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/jisu98/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/jisu98/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
