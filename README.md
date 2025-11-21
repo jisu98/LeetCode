@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/jisu98/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/jisu98/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0768-partition-labels](https://github.com/jisu98/LeetCode/tree/master/0768-partition-labels) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jisu98/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jisu98/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jisu98/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jisu98/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/jisu98/LeetCode/tree/master/0768-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/jisu98/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jisu98/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jisu98/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jisu98/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jisu98/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jisu98/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/jisu98/LeetCode/tree/master/0191-number-of-1-bits) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jisu98/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jisu98/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/jisu98/LeetCode/tree/master/2509-minimize-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/jisu98/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0732-my-calendar-iii](https://github.com/jisu98/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/jisu98/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jisu98/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/jisu98/LeetCode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/jisu98/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2529-range-product-queries-of-powers](https://github.com/jisu98/LeetCode/tree/master/2529-range-product-queries-of-powers) |
