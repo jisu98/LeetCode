@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/jisu98/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jisu98/LeetCode/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/jisu98/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/jisu98/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jisu98/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2164-two-best-non-overlapping-events](https://github.com/jisu98/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/jisu98/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0717-1-bit-and-2-bit-characters](https://github.com/jisu98/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/jisu98/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/jisu98/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/jisu98/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1396-count-servers-that-communicate](https://github.com/jisu98/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jisu98/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jisu98/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/jisu98/LeetCode/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/jisu98/LeetCode/tree/master/0561-array-partition) |
 | [0900-reordered-power-of-2](https://github.com/jisu98/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/jisu98/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jisu98/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2164-two-best-non-overlapping-events](https://github.com/jisu98/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jisu98/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/jisu98/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/jisu98/LeetCode/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/jisu98/LeetCode/tree/master/0768-partition-labels) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/jisu98/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2509-minimize-xor](https://github.com/jisu98/LeetCode/tree/master/2509-minimize-xor) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jisu98/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jisu98/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
