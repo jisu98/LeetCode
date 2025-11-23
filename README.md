@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/jisu98/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jisu98/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jisu98/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jisu98/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jisu98/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jisu98/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jisu98/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/jisu98/LeetCode/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jisu98/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1876-map-of-highest-peak](https://github.com/jisu98/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jisu98/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jisu98/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2145-grid-game](https://github.com/jisu98/LeetCode/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jisu98/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/jisu98/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/jisu98/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jisu98/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jisu98/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/jisu98/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jisu98/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jisu98/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -317,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/jisu98/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/jisu98/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jisu98/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/jisu98/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 ## Monotonic Stack
 |  |
