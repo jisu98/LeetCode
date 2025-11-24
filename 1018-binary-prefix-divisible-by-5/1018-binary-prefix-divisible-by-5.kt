@@ -1,5 +1,5 @@
 class Solution {
-    fun prefixesDivBy5(nums: IntArray): List<Boolean> {
+    fun prefixesDivBy5(nums: IntArray): BooleanArray {
         var prev = 0
         val answer = BooleanArray(nums.size)
 
@@ -8,6 +8,6 @@ class Solution {
             answer[i] = (prev == 0)
         }
 
-        return answer.toList()
+        return answer
     }
 }
