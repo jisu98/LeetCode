@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/jisu98/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/jisu98/LeetCode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/jisu98/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/jisu98/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jisu98/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jisu98/LeetCode/tree/master/0120-triangle) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/jisu98/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/jisu98/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/jisu98/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/jisu98/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/jisu98/LeetCode/tree/master/0202-happy-number) |
 | [0900-reordered-power-of-2](https://github.com/jisu98/LeetCode/tree/master/0900-reordered-power-of-2) |
