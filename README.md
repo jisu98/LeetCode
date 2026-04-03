@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/jisu98/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/jisu98/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jisu98/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/jisu98/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Backtracking
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jisu98/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jisu98/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jisu98/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/jisu98/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jisu98/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jisu98/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-robot-collisions](https://github.com/jisu98/LeetCode/tree/master/2751-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jisu98/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jisu98/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/jisu98/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## String Matching
 |  |
 | ------- |
@@ -304,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/jisu98/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jisu98/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jisu98/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/jisu98/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Tree
 |  |
 | ------- |
