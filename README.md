@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/jisu98/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jisu98/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0146-lru-cache](https://github.com/jisu98/LeetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/jisu98/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/jisu98/LeetCode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/jisu98/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jisu98/LeetCode/tree/master/0146-lru-cache) |
 | [0732-my-calendar-iii](https://github.com/jisu98/LeetCode/tree/master/0732-my-calendar-iii) |
 ## Segment Tree
 |  |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jisu98/LeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/jisu98/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Sliding Window
 |  |
@@ -382,4 +385,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jisu98/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jisu98/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
