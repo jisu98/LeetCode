@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/jisu98/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/jisu98/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0768-partition-labels](https://github.com/jisu98/LeetCode/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/jisu98/LeetCode/tree/master/0796-rotate-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jisu98/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jisu98/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jisu98/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/jisu98/LeetCode/tree/master/0796-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jisu98/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Two Pointers
 |  |
