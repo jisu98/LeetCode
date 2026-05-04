@@ -10,9 +10,6 @@ class Solution {
                 matrix[n - y - 1][x] = matrix[n - x - 1][n - y - 1]
                 matrix[n - x - 1][n - y - 1] = matrix[y][n - x - 1]
                 matrix[y][n - x - 1] = tmp
-
-                println("$x $y")
-                for (i in 0 until n) println(matrix[i].toList())
             }
         }
     }
