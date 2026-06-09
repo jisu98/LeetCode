@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jisu98/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jisu98/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jisu98/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3689-maximum-total-subarray-value-i](https://github.com/jisu98/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jisu98/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jisu98/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1262-greatest-sum-divisible-by-three](https://github.com/jisu98/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2509-minimize-xor](https://github.com/jisu98/LeetCode/tree/master/2509-minimize-xor) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jisu98/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3689-maximum-total-subarray-value-i](https://github.com/jisu98/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jisu98/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jisu98/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
