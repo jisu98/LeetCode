@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/jisu98/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/jisu98/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jisu98/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3612-process-string-with-special-operations-i](https://github.com/jisu98/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/jisu98/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jisu98/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2751-robot-collisions](https://github.com/jisu98/LeetCode/tree/master/2751-robot-collisions) |
+| [3612-process-string-with-special-operations-i](https://github.com/jisu98/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Counting Sort
 |  |
 | ------- |
