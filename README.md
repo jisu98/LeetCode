@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/jisu98/LeetCode/tree/master/1656-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/jisu98/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jisu98/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1840-maximum-building-height](https://github.com/jisu98/LeetCode/tree/master/1840-maximum-building-height) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jisu98/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1876-map-of-highest-peak](https://github.com/jisu98/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jisu98/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/jisu98/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/jisu98/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jisu98/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1840-maximum-building-height](https://github.com/jisu98/LeetCode/tree/master/1840-maximum-building-height) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jisu98/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/jisu98/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jisu98/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/jisu98/LeetCode/tree/master/0202-happy-number) |
 | [0900-reordered-power-of-2](https://github.com/jisu98/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/jisu98/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [1840-maximum-building-height](https://github.com/jisu98/LeetCode/tree/master/1840-maximum-building-height) |
 | [1925-count-square-sum-triples](https://github.com/jisu98/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2507-number-of-common-factors](https://github.com/jisu98/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/jisu98/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
